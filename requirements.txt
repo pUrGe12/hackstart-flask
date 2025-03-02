@@ -2,3 +2,4 @@ inference-sdk
 Flask
 requests
 gunicorn
+flask-cors
