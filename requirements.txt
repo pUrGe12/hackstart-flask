@@ -1,3 +1,4 @@
 inference-sdk
 Flask
 requests
+gunicorn
